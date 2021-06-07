@@ -1,3 +1,5 @@
+git@github.com:BozanaMa/prog2_exercise2_starter_code-master.git
+
 # Traffic Light
 
 Das ist das Codetemplate für die zweite Übung in Programmierung 2.
